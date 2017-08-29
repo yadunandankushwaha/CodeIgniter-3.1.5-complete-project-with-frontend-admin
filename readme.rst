@@ -37,7 +37,7 @@
 
 8)	*Manage USER-* 
 
-	* Add user
+	*Add user
 	
 	* Update User
 	
