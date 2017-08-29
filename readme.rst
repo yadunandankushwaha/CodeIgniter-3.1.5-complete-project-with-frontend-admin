@@ -34,12 +34,13 @@
 
 7)	*Change password*
 
+##
 
-##	*Manage USER-* 
+8)	 *Manage USER-* 
 
-	* Add user
+	* 	Add user
 	
-	* Update User
+	* 	Update User
 	
 	*	List of Users
 	
