@@ -124,6 +124,8 @@
 	
 	*	Manage Sliders (Add, Edit, Delete)
 	
+	*	Manage Custom SEO Tools for front-end pages (for meta tag/keywords, description) 
+	
 	*	Manage Front End Social Links (Add, Edit)
 	
 
