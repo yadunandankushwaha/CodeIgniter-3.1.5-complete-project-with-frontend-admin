@@ -58,7 +58,7 @@
 	
 	*	Enable/Disable and Delete Blogs
 
-10)	*Manage PRODUCTS-*
+10)	  *Manage PRODUCTS-*
 
 	*	Manage Product Category(Add, Edit, Delete)
 	
@@ -69,9 +69,9 @@
 	*	List of Products
 	
 	*	Enable/Disable and Delete Products
-##
 
-11)	*Manage TEAMS-*
+
+11)	  *Manage TEAMS-*
 
 	*	Add Team
 	
@@ -82,7 +82,7 @@
 	*	Active/Inactive and Delete Team
 	
 	
-12)	*Manage TESTIMONIALS-*
+12)	  *Manage TESTIMONIALS-*
 
 	*	Add Testimonial
 	
@@ -93,7 +93,7 @@
 	*	Active/Inactive and Delete Testimonial
 	
 	
-13)	*Manage FAQ-*
+13)	  *Manage FAQ-*
 
 	*	Add Faq
 	
@@ -104,7 +104,7 @@
 	*	Active/Inactive and Delete Faq
 	
 	
-14)	*Manage GALLERY-*
+14)	  *Manage GALLERY-*
 
 	*	Add Multiple Gallery Images
 	
@@ -113,7 +113,7 @@
 	*	Delete Gallery Images
 	
 	
-15)	*Manage SITE CONFIGURATION-*
+15)	  *Manage SITE CONFIGURATION-*
 
 	*	Manage Site Logo, Title etc.
 	
