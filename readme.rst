@@ -1,3 +1,12 @@
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
 ###
 Main Component
 ```
