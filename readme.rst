@@ -1,17 +1,17 @@
-Main Component
+#Main Component
 1)	Bootstrap Theme integration for Administration and Front-end.
 2)	Codeigniter 3.1.5
 3)	Php 5.6
 
-List of things implemented
-USER-END
+#List of things implemented
+#USER-END
 1)	Theme Integrate
 2)	User Login
 3)	User Registration
 4)	Add-update-edit-delete blog
 5)	Blogs comment system
 
-Administration-END
+#Administration-END
 1)	Theme Integration in CI
 2)	Login for Admin
 3)	Forget password
