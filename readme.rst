@@ -48,7 +48,8 @@
 	
 	*	Delete User
 	
-	
+
+
 9)	*Manage BLOGS-*
 
 	*	Manage Blog Category(Add, Edit, Delete)
@@ -61,7 +62,8 @@
 	
 	*	Enable/Disable and Delete Blogs
 	
-	
+
+
 10)	*Manage PRODUCTS-*
 
 	*	Manage Product Category(Add, Edit, Delete)
