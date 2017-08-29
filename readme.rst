@@ -122,9 +122,9 @@
 	
 	*	Manage Front End Static Pages Dynamically. (About, Contact, Term & Condition, Privacy Policy Pages)
 	
-	*	Manage Sliders
+	*	Manage Sliders (Add, Edit, Delete)
 	
-	*	Manage Front End Social Links
+	*	Manage Front End Social Links (Add, Edit)
 	
 
 **Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
