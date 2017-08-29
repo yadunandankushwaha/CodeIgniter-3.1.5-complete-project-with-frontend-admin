@@ -1,5 +1,4 @@
 **Main Component**
-
 1)	Bootstrap Theme integration for Administration and Front-end.
 
 2)	Codeigniter 3.1.5
@@ -7,7 +6,6 @@
 3)	Php 5.6
 
 **USER-END**
-
 1)	Theme Integrate
 
 2)	User Login
@@ -19,7 +17,6 @@
 5)	Blogs comment system
 
 **Administration-END**
-
 1)	Theme Integration in CI
 
 2)	Login for Admin
