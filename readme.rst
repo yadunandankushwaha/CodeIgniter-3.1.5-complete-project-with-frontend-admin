@@ -8,34 +8,34 @@
 
 **USER-END**
 
-1)	Theme Integrate
+1)	*Theme Integrate*
 
-2)	User Login
+2)	*User Login*
 
-3)	User Registration
+3)	*User Registration*
 
-4)	Add-update-edit-delete blog
+4)	*Add-update-edit-delete blog*
 
-5)	Blogs comment system
+5)	*Blogs comment system*
 
 **Administration-END**
 
-1)	Theme Integration in CI
+1)	*Theme Integration in CI*
 
-2)	Login for Admin
+2)	*Login for Admin*
 
-3)	Forget password
+3)	*Forget password*
 
-4)	Reset password
+4)	*Reset password*
 
-5)	Full dashboard integration
+5)	*Full dashboard integration*
 
-6)	Edit profile
+6)	*Edit profile*
 
-7)	Change password
+7)	*Change password*
 
 
-8)	Manage USER- 
+8)	*Manage USER-* 
 
 	a.	Add user
 	
@@ -48,7 +48,7 @@
 	e.	Delete User
 	
 	
-9)	Manage BLOGS-
+9)	*Manage BLOGS-*
 
 	a.	Manage Blog Category(Add, Edit, Delete)
 	
@@ -61,7 +61,7 @@
 	e.	Enable/Disable and Delete Blogs
 	
 	
-10)	Manage PRODUCTS-
+10)	*Manage PRODUCTS-*
 
 	a.	Manage Product Category(Add, Edit, Delete)
 	
@@ -74,7 +74,7 @@
 	e.	Enable/Disable and Delete Products
 	
 
-11)	Manage TEAMS-
+11)	*Manage TEAMS-*
 
 	a.	Add Team
 	
@@ -85,7 +85,7 @@
 	d.	Active/Inactive and Delete Team
 	
 	
-12)	Manage TESTIMONIALS-
+12)	*Manage TESTIMONIALS-*
 
 	a.	Add Testimonial
 	
@@ -96,7 +96,7 @@
 	d.	Active/Inactive and Delete Testimonial
 	
 	
-13)	Manage FAQ-
+13)	*Manage FAQ-*
 
 	a.	Add Faq
 	
@@ -107,7 +107,7 @@
 	d.	Active/Inactive and Delete Faq
 	
 	
-14)	Manage GALLERY-
+14)	*Manage GALLERY-*
 
 	a.	Add Multiple Gallery Images
 	
@@ -116,7 +116,7 @@
 	c.	Delete Gallery Images
 	
 	
-15)	Manage SITE CONFIGURATION-
+15)	*Manage SITE CONFIGURATION-*
 
 	a.	Manage Site Logo, Title etc.
 	
