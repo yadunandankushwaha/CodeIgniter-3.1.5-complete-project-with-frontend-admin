@@ -1,4 +1,8 @@
+```
+
 **Main Component**
+
+```
 
 1)	Bootstrap Theme integration for Administration and Front-end.
 
