@@ -35,9 +35,9 @@
 7)	*Change password*
 
 
-8)	*Manage USER-* 
+##	*Manage USER-* 
 
-	*Add user
+	* Add user
 	
 	* Update User
 	
