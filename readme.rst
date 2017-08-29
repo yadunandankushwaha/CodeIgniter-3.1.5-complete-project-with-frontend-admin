@@ -1,70 +1,77 @@
-###################
-What is CodeIgniter
-###################
+Main Component
+1)	Bootstrap Theme integration for Administration and Front-end.
+2)	Codeigniter 3.1.5
+3)	Php 5.6
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+List of things implemented
+USER-END
+1)	Theme Integrate
+2)	User Login
+3)	User Registration
+4)	Add-update-edit-delete blog
+5)	Blogs comment system
 
-*******************
-Release Information
-*******************
+Administration-END
+1)	Theme Integration in CI
+2)	Login for Admin
+3)	Forget password
+4)	Reset password
+5)	Full dashboard integration
+6)	Edit profile
+7)	Change password
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+8)	Manage USER- 
+	a.	Add user
+	b.	Update User
+	c.	List of Users
+	d.	Active/Inactive User
+	e.	Delete User
+	
+9)	Manage BLOGS-
+	a.	Manage Blog Category(Add, Edit, Delete)
+	b.	Add Blog
+	c.	Update Blog
+	d.	List of blogs
+	e.	Enable/Disable and Delete Blogs
+	
+10)	Manage PRODUCTS-
+	a.	Manage Product Category(Add, Edit, Delete)
+	b.	Add Products
+	c.	Update Products
+	d.	List of Products
+	e.	Enable/Disable and Delete Products
 
-**************************
-Changelog and New Features
-**************************
+11)	Manage TEAMS-
+	a.	Add Team
+	b.	Update Team
+	c.	List of Teams
+	d.	Active/Inactive and Delete Team
+	
+12)	Manage TESTIMONIALS-
+	a.	Add Testimonial
+	b.	Update Testimonial
+	c.	List of Testimonials
+	d.	Active/Inactive and Delete Testimonial
+	
+13)	Manage FAQ-
+	a.	Add Faq
+	b.	Update Faq
+	c.	List of Faq
+	d.	Active/Inactive and Delete Faq
+	
+14)	Manage GALLERY-
+	a.	Add Multiple Gallery Images
+	b.	List of Gallery Images
+	c.	Delete Gallery Images
+	
+15)	Manage SITE CONFIGURATION-
+	a.	Manage Site Logo, Title etc.
+	b.	Manage Front End Static Pages Dynamically
+	c.	Manage Sliders
+	d.	Manage Front End Social Links
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Note:- This product is under developed by Yadu Nandan Kushwaha ..   Please contact if having any     
 
-*******************
-Server Requirements
-*******************
+query. Mail to – ynandan55@gmail.com   ||    https://github.com/yadunandankushwaha 
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+	
