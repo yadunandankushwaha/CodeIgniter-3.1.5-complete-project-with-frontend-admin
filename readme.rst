@@ -1,17 +1,6 @@
 
-### And coding style tests
-
-Explain what these tests test and why
-
-## ```
-Give an example
-## ```
-
-###
-Main Component
-```
-ABC
-```
+##
+**Main Components**
 
 1)	Bootstrap Theme integration for Administration and Front-end.
 
