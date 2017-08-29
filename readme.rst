@@ -37,94 +37,94 @@
 
 8)	*Manage USER-* 
 
-	a.	Add user
+	*	Add user
 	
-	b.	Update User
+	*	Update User
 	
-	c.	List of Users
+	*	List of Users
 	
-	d.	Active/Inactive User
+	*	Active/Inactive User
 	
-	e.	Delete User
+	*	Delete User
 	
 	
 9)	*Manage BLOGS-*
 
-	a.	Manage Blog Category(Add, Edit, Delete)
+	*	Manage Blog Category(Add, Edit, Delete)
 	
-	b.	Add Blog
+	*	Add Blog
 	
-	c.	Update Blog
+	*	Update Blog
 	
-	d.	List of blogs
+	*	List of blogs
 	
-	e.	Enable/Disable and Delete Blogs
+	*	Enable/Disable and Delete Blogs
 	
 	
 10)	*Manage PRODUCTS-*
 
-	a.	Manage Product Category(Add, Edit, Delete)
+	*	Manage Product Category(Add, Edit, Delete)
 	
-	b.	Add Products
+	*	Add Products
 	
-	c.	Update Products
+	*	Update Products
 	
-	d.	List of Products
+	*	List of Products
 	
-	e.	Enable/Disable and Delete Products
+	*	Enable/Disable and Delete Products
 	
 
 11)	*Manage TEAMS-*
 
-	a.	Add Team
+	*	Add Team
 	
-	b.	Update Team
+	*	Update Team
 	
-	c.	List of Teams
+	*	List of Teams
 	
-	d.	Active/Inactive and Delete Team
+	*	Active/Inactive and Delete Team
 	
 	
 12)	*Manage TESTIMONIALS-*
 
-	a.	Add Testimonial
+	*	Add Testimonial
 	
-	b.	Update Testimonial
+	*	Update Testimonial
 	
-	c.	List of Testimonials
+	*	List of Testimonials
 	
-	d.	Active/Inactive and Delete Testimonial
+	*	Active/Inactive and Delete Testimonial
 	
 	
 13)	*Manage FAQ-*
 
-	a.	Add Faq
+	*	Add Faq
 	
-	b.	Update Faq
+	*	Update Faq
 	
-	c.	List of Faq
+	*	List of Faq
 	
-	d.	Active/Inactive and Delete Faq
+	*	Active/Inactive and Delete Faq
 	
 	
 14)	*Manage GALLERY-*
 
-	a.	Add Multiple Gallery Images
+	*	Add Multiple Gallery Images
 	
-	b.	List of Gallery Images
+	*	List of Gallery Images
 	
-	c.	Delete Gallery Images
+	*	Delete Gallery Images
 	
 	
 15)	*Manage SITE CONFIGURATION-*
 
-	a.	Manage Site Logo, Title etc.
+	*	Manage Site Logo, Title etc.
 	
-	b.	Manage Front End Static Pages Dynamically
+	*	Manage Front End Static Pages Dynamically
 	
-	c.	Manage Sliders
+	*	Manage Sliders
 	
-	d.	Manage Front End Social Links
+	*	Manage Front End Social Links
 	
 
 **Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
