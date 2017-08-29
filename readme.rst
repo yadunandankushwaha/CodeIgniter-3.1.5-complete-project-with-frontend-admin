@@ -46,7 +46,7 @@
 	
 	*	Delete User
 	
-##	*Manage BLOGS-*
+9)	*Manage BLOGS-*
 
 	*	Manage Blog Category(Add, Edit, Delete)
 	
