@@ -1,5 +1,4 @@
 
-###
 **Main Components**
 
 1)	Bootstrap Theme integration for Administration and Front-end.
@@ -8,7 +7,7 @@
 
 3)	Php 5.6
 
-**USER-END**
+**User Panel**
 
 1)	*Theme Integrate*
 
@@ -20,7 +19,7 @@
 
 5)	*Blogs comment system*
 
-**Administration-END**
+**Administration Panel**
 
 1)	*Theme Integration in CI*
 
