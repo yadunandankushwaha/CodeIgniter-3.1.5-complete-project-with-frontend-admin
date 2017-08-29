@@ -143,7 +143,7 @@
                                                                 <div class="col-sm-12">
                                                                      <div class="input-group">
                                                                     <span class="input-group-addon"><i class="icofont icofont-copy-alt"></i></span>
-                                                                        <textarea name="description" placeholder="Please Provide a valid Formated Product Description!" id="editor2"><?php echo $productsDetails['description']; ?></textarea>
+                                                                        <textarea name="description" placeholder="Please Provide a valid Formated Product Description!" id="editor1"><?php echo $productsDetails['description']; ?></textarea>
                                                                     </div>     
                                                                 </div>
                                                             </div>
