@@ -1,4 +1,4 @@
-Main Component
+**Main Component**
 
 1)	Bootstrap Theme integration for Administration and Front-end.
 
@@ -6,7 +6,7 @@ Main Component
 
 3)	Php 5.6
 
-USER-END
+**USER-END**
 
 1)	Theme Integrate
 
@@ -18,7 +18,7 @@ USER-END
 
 5)	Blogs comment system
 
-Administration-END
+**Administration-END**
 
 1)	Theme Integration in CI
 
@@ -34,6 +34,7 @@ Administration-END
 
 7)	Change password
 
+
 8)	Manage USER- 
 
 	a.	Add user
@@ -46,43 +47,88 @@ Administration-END
 	
 	e.	Delete User
 	
+	
 9)	Manage BLOGS-
-a.	Manage Blog Category(Add, Edit, Delete)
-b.	Add Blog
-c.	Update Blog
-d.	List of blogs
-e.	Enable/Disable and Delete Blogs
+
+	a.	Manage Blog Category(Add, Edit, Delete)
+	
+	b.	Add Blog
+	
+	c.	Update Blog
+	
+	d.	List of blogs
+	
+	e.	Enable/Disable and Delete Blogs
+	
+	
 10)	Manage PRODUCTS-
-a.	Manage Product Category(Add, Edit, Delete)
-b.	Add Products
-c.	Update Products
-d.	List of Products
-e.	Enable/Disable and Delete Products
+
+	a.	Manage Product Category(Add, Edit, Delete)
+	
+	b.	Add Products
+	
+	c.	Update Products
+	
+	d.	List of Products
+	
+	e.	Enable/Disable and Delete Products
+	
 
 11)	Manage TEAMS-
-a.	Add Team
-b.	Update Team
-c.	List of Teams
-d.	Active/Inactive and Delete Team
+
+	a.	Add Team
+	
+	b.	Update Team
+	
+	c.	List of Teams
+	
+	d.	Active/Inactive and Delete Team
+	
+	
 12)	Manage TESTIMONIALS-
-a.	Add Testimonial
-b.	Update Testimonial
-c.	List of Testimonials
-d.	Active/Inactive and Delete Testimonial
+
+	a.	Add Testimonial
+	
+	b.	Update Testimonial
+	
+	c.	List of Testimonials
+	
+	d.	Active/Inactive and Delete Testimonial
+	
+	
 13)	Manage FAQ-
-a.	Add Faq
-b.	Update Faq
-c.	List of Faq
-d.	Active/Inactive and Delete Faq
+
+	a.	Add Faq
+	
+	b.	Update Faq
+	
+	c.	List of Faq
+	
+	d.	Active/Inactive and Delete Faq
+	
+	
 14)	Manage GALLERY-
-a.	Add Multiple Gallery Images
-b.	List of Gallery Images
-c.	Delete Gallery Images
+
+	a.	Add Multiple Gallery Images
+	
+	b.	List of Gallery Images
+	
+	c.	Delete Gallery Images
+	
+	
 15)	Manage SITE CONFIGURATION-
-a.	Manage Site Logo, Title etc.
-b.	Manage Front End Static Pages Dynamically
-c.	Manage Sliders
-d.	Manage Front End Social Links
-Note:- This product is under developed by Yadu Nandan Kushwaha ..   Please contact if having any     query. Mail to – ynandan55@gmail.com   ||    https://github.com/yadunandankushwaha 
+
+	a.	Manage Site Logo, Title etc.
+	
+	b.	Manage Front End Static Pages Dynamically
+	
+	c.	Manage Sliders
+	
+	d.	Manage Front End Social Links
+	
+
+**Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
+
+	   Please contact if having any query. Mail to – ynandan55@gmail.com || https://github.com/yadunandankushwaha 
 
 	
