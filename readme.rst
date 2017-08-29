@@ -128,7 +128,6 @@
 	
 	*	Manage Front End Social Links (Add, Edit)
 	
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 **Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
