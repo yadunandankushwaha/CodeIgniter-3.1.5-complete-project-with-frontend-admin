@@ -96,6 +96,8 @@
 	
 13)	  *Manage FAQ-*
 
+	*	Manage Faq Category(Add, Edit, Delete)
+
 	*	Add Faq
 	
 	*	Update Faq
@@ -118,7 +120,7 @@
 
 	*	Manage Site Logo, Title etc.
 	
-	*	Manage Front End Static Pages Dynamically
+	*	Manage Front End Static Pages Dynamically. (About, Contact, Term & Condition, Privacy Policy Pages)
 	
 	*	Manage Sliders
 	
