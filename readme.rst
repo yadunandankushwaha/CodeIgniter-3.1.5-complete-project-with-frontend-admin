@@ -1,4 +1,5 @@
 
+
 **Main Components**
 
 1)	Bootstrap Theme integration for Administration and Front-end.
@@ -133,5 +134,6 @@
 **Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
 
 	   Please contact if having any query. Mail to – ynandan55@gmail.com || https://github.com/yadunandankushwaha 
+	   
 
 	
