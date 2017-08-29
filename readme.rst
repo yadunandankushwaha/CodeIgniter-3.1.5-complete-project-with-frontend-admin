@@ -19,19 +19,33 @@ USER-END
 5)	Blogs comment system
 
 Administration-END
+
 1)	Theme Integration in CI
+
 2)	Login for Admin
+
 3)	Forget password
+
 4)	Reset password
+
 5)	Full dashboard integration
+
 6)	Edit profile
+
 7)	Change password
+
 8)	Manage USER- 
-a.	Add user
-b.	Update User
-c.	List of Users
-d.	Active/Inactive User
-e.	Delete User
+
+	a.	Add user
+	
+	b.	Update User
+	
+	c.	List of Users
+	
+	d.	Active/Inactive User
+	
+	e.	Delete User
+	
 9)	Manage BLOGS-
 a.	Manage Blog Category(Add, Edit, Delete)
 b.	Add Blog
