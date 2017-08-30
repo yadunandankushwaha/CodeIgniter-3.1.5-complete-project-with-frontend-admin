@@ -1,7 +1,7 @@
 
 **Main Components**
 
-1)	Bootstrap Theme integration for Administration and Front-end.
+1)	Bootstrap Theme integrated for Administration and Front-panel.
 
 2)	Codeigniter 3.1.5
 
