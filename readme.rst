@@ -129,7 +129,7 @@
 	*	Manage Front End Social Links (Add, Edit)
 	
 	Run The Project - 	
-	Front - localhost/{projectname}		
+	Front - localhost/{projectname}				
 	Admin Backend - localhost/{projectname}/administrator		
 			Admin UserName - ynandan55@gmail.com		
 			      Password - 123456		
@@ -137,7 +137,7 @@
 	
 
 
-**Note:-** This product is under developed by Yadu Nandan Kushwaha .. 
+**Note:-** This product developed by Yadu Nandan Kushwaha .. 
 
 	   Please contact if having any query. Mail to – ynandan55@gmail.com || https://github.com/yadunandankushwaha 
 	   
