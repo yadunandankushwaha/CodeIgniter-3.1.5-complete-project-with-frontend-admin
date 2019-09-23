@@ -25,7 +25,7 @@
                         <!-- Basic Form Inputs card start -->
                         <div class="card">                           
                             <div class="card-block">
-                            <?php echo form_open_multipart('administrator/add/blog'); ?>
+                            <?php echo form_open_multipart('administrator/blogs/add-blog'); ?>
                               <div class="form-group col-sm-8">
                                 <label>Title</label>
                                 <input type="text" class="form-control" name="title" placeholder="Add Title">

@@ -1079,7 +1079,7 @@
 			$this->load->view('administrator/list-blogs', $data);
 			$this->load->view('administrator/footer');
 		}
-		public function update_blog($blogId){
+		public function update_blog($blog_id = false){
 			// Check login
 			if(!$this->session->userdata('login')) {
 				redirect('administrator/index');
@@ -1088,7 +1088,7 @@
 			$data['title'] = 'Edit Blog';
 
 			$data['categories'] = $this->Post_Model->get_categories();
-			$data['post'] = $this->Administrator_Model->listblogs($blogId);
+			$data['post'] = $this->Administrator_Model->listblogs($blog_id);
 
 			$this->form_validation->set_rules('title', 'Title', 'required');
 			$this->form_validation->set_rules('body', 'Body', 'required');
