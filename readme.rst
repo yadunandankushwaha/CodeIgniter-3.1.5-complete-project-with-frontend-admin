@@ -5,7 +5,7 @@
 
 2)	Codeigniter 3.1.5
 
-3)	Php 5.6
+3)	Php 7.2
 
 **User Panel**
 
